@@ -1,0 +1,53 @@
+C:\Users\Lenovo\source\repos\minecull\minecull\bin\Debug\minecull.exe.config
+C:\Users\Lenovo\source\repos\minecull\minecull\bin\Debug\minecull.exe
+C:\Users\Lenovo\source\repos\minecull\minecull\bin\Debug\minecull.pdb
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.exe
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.pdb
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.Form1.resources
+C:\Users\Lenovo\source\repos\minecull\minecull\obj\Debug\minecull.Form3.resources
+C:\Users\memis\Desktop\Mine Blast Calculator (MBC)\minecull\bin\Debug\minecull.exe.config
+C:\Users\memis\Desktop\Mine Blast Calculator (MBC)\minecull\bin\Debug\minecull.exe
+C:\Users\memis\Desktop\Mine Blast Calculator (MBC)\minecull\bin\Debug\minecull.pdb
+C:\Users\memis\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.csproj.AssemblyReference.cache
+C:\Users\memis\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.Form1.resources
+C:\Users\memis\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.Form3.resources
+C:\Users\memis\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.Properties.Resources.resources
+C:\Users\memis\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.csproj.GenerateResource.cache
+C:\Users\memis\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.csproj.CoreCompileInputs.cache
+C:\Users\memis\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.exe
+C:\Users\memis\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.pdb
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC)\minecull\bin\Debug\minecull.exe.config
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC)\minecull\bin\Debug\minecull.exe
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC)\minecull\bin\Debug\minecull.pdb
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.Form1.resources
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.Form3.resources
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.exe
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC)\minecull\obj\Debug\minecull.pdb
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220613\minecull\bin\Debug\minecull.exe.config
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220613\minecull\bin\Debug\minecull.exe
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220613\minecull\bin\Debug\minecull.pdb
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220613\minecull\obj\Debug\minecull.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220613\minecull\obj\Debug\minecull.Form1.resources
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220613\minecull\obj\Debug\minecull.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220613\minecull\obj\Debug\minecull.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220613\minecull\obj\Debug\minecull.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220613\minecull\obj\Debug\minecull.exe
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220613\minecull\obj\Debug\minecull.pdb
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220618\minecull\bin\Debug\minecull.exe.config
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220618\minecull\bin\Debug\minecull.exe
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220618\minecull\bin\Debug\minecull.pdb
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220618\minecull\obj\Debug\minecull.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220618\minecull\obj\Debug\minecull.Form1.resources
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220618\minecull\obj\Debug\minecull.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220618\minecull\obj\Debug\minecull.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220618\minecull\obj\Debug\minecull.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220618\minecull\obj\Debug\minecull.exe
+C:\Users\Lenovo\Desktop\Mine Blast Calculator (MBC) - 20220618\minecull\obj\Debug\minecull.pdb
